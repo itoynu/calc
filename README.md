@@ -1,5 +1,5 @@
-Žl‘¥‰‰ŽZƒvƒƒOƒ‰ƒ€
-yŽg‚¢•ûz
-EŽÀs‚É‚ÍPython3‚ª•K—v‚Å‚·Bcalc.py‚ðPython3‚ÅŽÀs‚µ‚Ä‚­‚¾‚³‚¢B
-E”Ž®‚ð“ü—Í‚µ‚ÄEnter‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢B—áj1+2*3
-Ee‚Æ“ü—Í‚µ‚ÄEnter‚ÅI—¹‚µ‚Ü‚·B
+å››å‰‡æ¼”ç®—ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
+ã€ä½¿ã„æ–¹ã€‘
+ãƒ»å®Ÿè¡Œã«ã¯Python3ãŒå¿…è¦ã§ã™ã€‚calc.pyã‚’Python3ã§å®Ÿè¡Œã—ã¦ãã ã•ã„ã€‚
+ãƒ»æ•°å¼ã‚’å…¥åŠ›ã—ã¦Enterã‚’æŠ¼ã—ã¦ãã ã•ã„ã€‚ä¾‹ï¼‰1+2*3
+ãƒ»eã¨å…¥åŠ›ã—ã¦Enterã§çµ‚äº†ã—ã¾ã™ã€‚
